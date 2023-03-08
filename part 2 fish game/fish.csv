@@ -1,0 +1,7 @@
+Name,Keeper,Fish,Points if kept,Points if released
+King George Whiting,yes,yes,50,70
+Lost Bait,no,no,-10,0
+Small Mulloway,no,yes,-10,10
+Snapper,yes,yes,30,40
+Large Mullet,yes,yes,20,20
+Seaweed Monster,yes,no,5,-5
